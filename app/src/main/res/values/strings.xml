@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator IAK</string>
+    <string name="calculator">Calculator</string>
+    <string name="input1">input 1</string>
+    <string name="input2">input 2</string>
+    <string name="count">Count</string>
+    <string name="result">Result</string>
+</resources>
